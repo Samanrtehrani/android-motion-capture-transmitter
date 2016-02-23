@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Robot Head</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="textedit_ip">Enter IP</string>
+    <string name="textedit_port">Enter Port</string>
+    <string name="ticker_text">Notification</string>
+    <string name="notification_title">Latest Notification</string>
+    <string name="notification_message">Latest Notification</string>
+
+</resources>
